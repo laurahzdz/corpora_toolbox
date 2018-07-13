@@ -19,4 +19,4 @@ See the complete list of ```requirements-dev.txt ```.
 ### User installation
 The current version is now available. To install, use ```pip``` :
 
->pip install -e git+https://github.com/corpora_toolbox/corpora_toolbox.git
+>pip install -e git+https://github.com/laurahzdz/corpora_toolbox.git@master#egg=corpora_toolbox
