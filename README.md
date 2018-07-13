@@ -1,37 +1,22 @@
-===============
-Corpora Toolbox
-===============
+=========
+corpora_toolbox
+=========
+
+**corpora_toolbox** is a set of tools for a fast and basic analysis of text corpora.
+
+Laura Hernandez-Dominguez, 2018
+laura.hzdz@gmail.com
+
+Free software: MIT license
+
+## Installation
+------------
+
+### Dependencies
+See the complete list of ```requirements-dev.txt ```.
 
 
-.. image:: https://img.shields.io/pypi/v/corpora_toolbox.svg
-        :target: https://pypi.python.org/pypi/corpora_toolbox
+### User installation
+The current version is now available. To install, use ```pip``` :
 
-.. image:: https://img.shields.io/travis/laurahzdz/corpora_toolbox.svg
-        :target: https://travis-ci.org/laurahzdz/corpora_toolbox
-
-.. image:: https://readthedocs.org/projects/corpora-toolbox/badge/?version=latest
-        :target: https://corpora-toolbox.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-
-
-
-Description here...
-
-
-* Free software: MIT license
-* Documentation: https://corpora-toolbox.readthedocs.io.
-
-
-Features
---------
-
-* TODO
-
-Credits
--------
-
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+>pip install -e git+https://github.com/corpora_toolbox/corpora_toolbox.git
