@@ -1,4 +1,4 @@
-from src.utils.fileManaging import *
+from corpora_toolbox.utils.io import read_file_in_string
 from math import *
 import re
 
